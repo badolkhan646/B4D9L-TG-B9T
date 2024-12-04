@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: "admin",
+    name: "admin2",
     credits: "Nayan",
     prefix: true,
     permission: 2,
